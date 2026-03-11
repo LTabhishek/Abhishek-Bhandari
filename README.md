@@ -18,6 +18,7 @@ Currently improving my skills in **JavaScript and problem solving**.
 * **CSS**
 * **JavaScript**
 * Basic **Problem Solving**
+* **Data Analysis**
 
 ---
 
@@ -45,7 +46,7 @@ Projects will be uploaded here as I continue learning and building.
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/yourusername
+* GitHub: https://github.com/LTabhishek
 
 ---
 
